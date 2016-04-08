@@ -1,0 +1,242 @@
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />   
+    <meta name="apple-mobile-web-app-capable" content="yes" />  
+    <meta name="format-detection" content="telephone=no" /> 
+    <style>
+      .error {color: #FF0000;}
+    </style>
+</head>
+<body>
+<?php
+include 'head.html';
+?>
+	<table summary="" align="center">
+		<tr>
+    		<th>课程名称</th>
+   		<th>学分</th>
+  		</tr>
+  		<tr>
+    		<td>临床肿瘤学</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>神经病学A</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>儿科学A</td>
+    		<td>5</td>
+  		</tr>
+  		<tr>
+    		<td>妇产科学A</td>
+    		<td>6</td>
+  		</tr>
+  		<tr>
+    		<td>外科学A</td>
+    		<td>8</td>
+  		</tr>
+  		<tr>
+    		<td>内科学A</td>
+    		<td>12</td>
+  		</tr>
+  		<tr>
+    		<td>人体寄生虫学</td>
+    		<td>2</td>
+  		</tr>
+  		<tr>
+    		<td>局部解剖学</td>
+    		<td>5</td>
+  		</tr>
+  		<tr>
+    		<td>基础综合考试</td>
+    		<td>15</td>
+  		</tr>
+  		<tr>
+    		<td>中医学</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>影像诊断学</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>外科总论</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>检体诊断学</td>
+    		<td>5</td>
+  		</tr>
+  		<tr>
+    		<td>临床基础课综合实习</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>实验诊断学</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>核医学B</td>
+    		<td>1.5</td>
+  		</tr>
+  		<tr>
+    		<td>心电诊断学</td>
+    		<td>1</td>
+  		</tr>
+  		<tr>
+    		<td>超声诊断学</td>
+    		<td>1</td>
+  		</tr>
+  		<tr>
+    		<td>基础医学专业英语</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>医学文献检索</td>
+    		<td>2</td>
+  		</tr>
+  		<tr>
+    		<td>分子生物学</td>
+    		<td>2</td>
+  		</tr>
+  		<tr>
+    		<td>预防医学</td>
+    		<td>5</td>
+  		</tr>
+  		<tr>
+    		<td>药理学</td>
+    		<td>5</td>
+  		</tr>
+  		<tr>
+    		<td>医学遗传学</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>形势与政策Ⅰ</td>
+    		<td>1</td>
+  		</tr>
+  		<tr>
+    		<td>医学微生物学</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>病理解剖学</td>
+    		<td>6</td>
+  		</tr>
+  		<tr>
+    		<td>大学英语BⅣ</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>医学免疫学</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>病理生理学</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>数据库及程序设计基础</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>细胞生物学</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>毛泽东思想和中国特色社会主义理论体系概论</td>
+    		<td>6</td>
+  		</tr>
+  		<tr>
+    		<td>大学英语BⅢ</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>生理学</td>
+    		<td>7</td>
+  		</tr>
+  		<tr>
+    		<td>生物化学</td>
+    		<td>7</td>
+  		</tr>
+  		<tr>
+    		<td>大学计算机基础</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>普通心理学</td>
+    		<td>2</td>
+  		</tr>
+  		<tr>
+    		<td>卫生法学</td>
+    		<td>2</td>
+  		</tr>
+  		<tr>
+    		<td>有机化学E</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>组织学与胚胎学</td>
+    		<td>5</td>
+  		</tr>
+  		<tr>
+    		<td>人体解剖学</td>
+    		<td>5</td>
+  		</tr>
+  		<tr>
+    		<td>有机化学实验D</td>
+    		<td>1</td>
+  		</tr>
+  		<tr>
+    		<td>大学物理及实验A</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>中国近现代史纲要</td>
+    		<td>2</td>
+  		</tr>
+  		<tr>
+    		<td>马克思主义基本原理概论</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>大学英语BⅡ</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>思想道德修养与法律基础</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>大学英语BⅠ</td>
+    		<td>4</td>
+  		</tr>
+  		<tr>
+    		<td>无机化学实验D</td>
+    		<td>1</td>
+  		</tr>
+  		<tr>
+    		<td>无机化学D</td>
+    		<td>3</td>
+  		</tr>
+  		<tr>
+    		<td>医用数学C</td>
+    		<td>3</td>
+  		</tr>
+
+  		
+	
+	
+	
+	
+	</table>
+
+
+
+
+
+
+</body>
+</html>
